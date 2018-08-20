@@ -1,0 +1,1 @@
+https://gitee.com/lzbgit/androidwindows/blob/master/multimediaapp/src/main/java/com/eric/media/camera/barCode/EncodingUtils.java
