@@ -2,5 +2,5 @@
 zxing一维码及二维码
 eclipse tomcat1.7 jdk 1.7
 测试文件夹可以忽略，在SRC下有两种一维条码的org.krysalis.barcode4j.servlet.BarcodeServlet为barcode4j条码以及index.jsp中的中的的是显示的
-谷歌包下的测试谷歌的酒吧一维条码以及QR二维条码的ZxingQRTestServlet二维条码根据实际情况自行修改
+谷歌包下的测试谷歌的一维条码以及QR二维条码的ZxingQRTestServlet二维条码根据实际情况自行修改
 
